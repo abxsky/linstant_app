@@ -8,8 +8,11 @@ environment:
 
 dependencies:
   crypto: ^3.0.3
+  email_validator: ^2.1.17
+  firebase_auth: ^4.17.8
   flutter:
     sdk: flutter
+  flutter_pw_validator: ^1.6.0
   google_fonts: ^6.2.0
   transparent_image: ^2.0.1
   uuid: ^4.3.3
